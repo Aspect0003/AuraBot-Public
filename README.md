@@ -3,6 +3,6 @@
 
 <a href="https://discord.gg/vHqydv2"><img src="https://discordapp.com/api/guilds/748905093167841360/widget.png?style=banner2" /></a>
 
-AuraBot is a free fortnite LobbyBot that anyone can use with a lot of commands, made by Aspect / AuraBotOwner
+AuraBot is a free fortnite LobbyBot that anyone can use with a lot of commands, made by Aspect#0003 / Owner Of AuraBot
 ## Support
-If you need help feel free to join [our discord server](https://discord.gg/vHqydv2)
+If you need help feel free to join [Our Discord Server](https://discord.gg/vHqydv2)
